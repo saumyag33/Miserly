@@ -9,9 +9,10 @@ We managed to think of an easy yet smart solution in this tech-savvy niche by pr
 ## Possible Functions
 * A monthly budget that can be manually set which will keep a count on how much percentage of the budget is used or still left to spend.
 * List of all the transactions as in where or with whom they have been made, with a feature of adding notes as well.
-* Pending transactions or debts that have to be completed from the user's end or if the user is a receiver, how much others owe him.
+* Listing all pending transactions or debts that have to be completed from the user's end.
+* If the user is a receiver, keeping a track of how much others owe him.
 * Show the user savings or how much more he has spent in a particular month.
-* To split expenses for a group.
+* To split expenses/ contribution for a group.
 ## Future Aspects
 * Linking the app with the bank account.
 * Allow the user to set a date and time as in when he needs to pay his debts and send a notification to remind him for the same as well.
